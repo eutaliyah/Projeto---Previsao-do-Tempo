@@ -27,3 +27,5 @@ function cliqueiNoBotao(){
 
    buscarCidade(cidade)
 }
+
+// fim do js
